@@ -1,0 +1,19 @@
+:root{
+  --primaryFont: proxima-nova,sans-serif!important;
+  --secondaryFont: calluna, serif!important;
+  --HeroH1Font: var(--secondaryFont)!important;
+  --h1font: var(--secondaryFont)!important;
+  --h2font: var(--secondaryFont)!important;
+  --h3font: var(--secondaryFont)!important;
+  --h4font: var(--secondaryFont)!important;
+  --h5font: var(--secondaryFont)!important;
+  --h6font: var(--secondaryFont)!important;
+  --anchorFont: var(--primaryFont)!important;
+  --anchorFontHover: var(--primaryFont)!important;
+  --headerMenuFont:var(--primaryFont)!important;
+  --headerMenuFontHover:var(--primaryFont)!important;
+  --headerMenuFontActive:var(--primaryFont)!important;
+  --footerMenuFont:var(--primaryFont)!important;
+  --footerMenuFontHover:var(--primaryFont)!important;
+  --footerMenuFontActive:var(--primaryFont)!important;
+}
