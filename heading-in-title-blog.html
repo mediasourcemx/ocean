@@ -1,0 +1,13 @@
+{% if tag or blog_author %}
+  <h2 class="listing__heading">IT Security Blog</h2>
+{% else %}
+  <h1 class="listing__heading">IT Security Blog</h1>
+{% endif %}
+
+/* Or */
+
+{% if tag or blog_author %}
+  <span class="listing__heading">IT Security Blog</span>
+{% else %}
+  <h1 class="listing__heading">IT Security Blog</h1>
+{% endif %}
